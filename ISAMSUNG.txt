@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ISAMASUNG</title>
+</head>
+<body>
+<img src="‪D:\ISMASUNG.png">
+
+    <h1><b>ISAMASUNG</b></h1>
+    
+    <h2>Display:</h2>
+    <ul>
+        <li>5.8-inch Super Retina HD display</li>
+        <li>2436-by-1125-pixel resolution at 458 ppi</li>
+        <li>HDR display with a contrast ratio of 1,000,000:1</li>
+    </ul>
+
+    <h2>Chip:</h2>
+    <ul>
+        <li>Apple A11 Bionic chip (10 nm)</li>
+        <li>Hexa-core CPU (2x Monsoon + 4x Mistral)</li>
+        <li>Apple GPU (three-core graphics)</li>
+    </ul>
+
+    <h2>Camera:</h2>
+    <ul>
+        <li>12MP dual rear cameras (wide and telephoto)</li>
+        <li>Wide: ƒ/1.8 aperture</li>
+        <li>Telephoto: ƒ/2.4 aperture</li>
+        <li>Optical image stabilization for both cameras</li>
+        <li>Supports Portrait mode and 4K video recording</li>
+    </ul>
+
+    <h2>Battery:</h2>
+    <ul>
+        <li>2716 mAh battery</li>
+        <li>Wireless charging capability</li>
+        <li>Fast charging support</li>
+    </ul>
+
+    <h2>Storage Options:</h2>
+    <ul>
+        <li>Available in 64GB and 256GB variants</li>
+        <li>3GB RAM</li>
+    </ul>
+
+    <h2>Operating System:</h2>
+    <ul>
+        <li>Initially shipped with iOS 11, upgradable to later versions</li>
+    </ul>
+
+    <h2>Other Features:</h2>
+    <ul>
+        <li>Face ID for secure authentication</li>
+        <li>Animoji and Memoji support</li>
+        <li>Water and dust resistance</li>
+    </ul>
+</body>
+</html>
