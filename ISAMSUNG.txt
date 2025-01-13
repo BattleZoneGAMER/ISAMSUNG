@@ -6,7 +6,8 @@
     <title>ISAMASUNG</title>
 </head>
 <body>
-<img src="‪D:\ISMASUNG.png">
+<img src="‪ISMASUNG.png"
+width="300 px" height="200px">
 
     <h1><b>ISAMASUNG</b></h1>
     
