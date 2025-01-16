@@ -6,26 +6,26 @@
     <title>ISAMASUNG</title>
 </head>
 <body>
-<img src="‪ISMASUNG.png"
-width="300 px" height="200px">
+    <p style="background-image: url('');">
+<img src="./image.png"width="400" height="333"> 
 
     <h1><b>ISAMASUNG</b></h1>
     
-    <h2>Display:</h2>
+    <h1 style="background-color:Tomato;">Display</h1>
     <ul>
         <li>5.8-inch Super Retina HD display</li>
         <li>2436-by-1125-pixel resolution at 458 ppi</li>
         <li>HDR display with a contrast ratio of 1,000,000:1</li>
     </ul>
 
-    <h2>Chip:</h2>
+    <h2 style="background-color:Orange;">Chip</h2>
     <ul>
         <li>Apple A11 Bionic chip (10 nm)</li>
         <li>Hexa-core CPU (2x Monsoon + 4x Mistral)</li>
         <li>Apple GPU (three-core graphics)</li>
     </ul>
 
-    <h2>Camera:</h2>
+    <h1 style="background-color:DodgerBlue;">Camera</h1>
     <ul>
         <li>12MP dual rear cameras (wide and telephoto)</li>
         <li>Wide: ƒ/1.8 aperture</li>
@@ -34,25 +34,26 @@ width="300 px" height="200px">
         <li>Supports Portrait mode and 4K video recording</li>
     </ul>
 
-    <h2>Battery:</h2>
+    <h1 style="background-color:SlateBlue;">Battery</h1>
     <ul>
         <li>2716 mAh battery</li>
         <li>Wireless charging capability</li>
         <li>Fast charging support</li>
     </ul>
 
-    <h2>Storage Options:</h2>
+    <h1 style="background-color:Violet;">Storage options</h1>
     <ul>
         <li>Available in 64GB and 256GB variants</li>
         <li>3GB RAM</li>
     </ul>
 
-    <h2>Operating System:</h2>
+    <h1 style="background-color:Gray;">Operating System</h1>
     <ul>
         <li>Initially shipped with iOS 11, upgradable to later versions</li>
     </ul>
 
-    <h2>Other Features:</h2>
+    <h1 style="background-color:LightGray;">Other Features</h1>
+
     <ul>
         <li>Face ID for secure authentication</li>
         <li>Animoji and Memoji support</li>
